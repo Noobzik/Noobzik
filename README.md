@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Hi , I'm Rakib <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine%20Learning%20Scientist;Machine+Learning+Engineer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 
@@ -15,12 +15,11 @@ You can click the Preview link to take a look at your changes.
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
 ### Machine Learning Stack
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Sci-kit Learn](https://img.shields.io/badge/scikit-learn.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
@@ -51,7 +50,7 @@ You can click the Preview link to take a look at your changes.
 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/noobzik"><img alt="Rakib's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=noobzik&custom_title=Rakib's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/noobzik"><img alt="Rakib's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=noobzik&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" /></a>
   <br/>
   
   
